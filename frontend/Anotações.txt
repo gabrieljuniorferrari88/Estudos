@@ -1,0 +1,19 @@
+/**
+ * Babel: converter (transpilar) codigo do react para um codigo q o browser entenda
+ * 
+ * Webpack: Para cada tipo de arquivo (js, css, png) eu vou converter o codigo de uma
+ * maneira diferente.
+ * 
+ * Loaders: babel-loader -> | js | css-loader -> css | image-loader -> imagens | 
+ * file-loader -> arquivos
+ */
+
+ /**
+ * Componentes
+ * Propriedades
+ * Estato & Imutabilidade
+ * 
+ * useState retorna um array com 2 posições
+ * 1. Variavel com o seu valor inicial
+ * 2. Funcao para atualizarmos esse valor
+ */
